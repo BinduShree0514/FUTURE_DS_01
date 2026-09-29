@@ -54,9 +54,10 @@ Interactive file: [Power BI Dashboard](DASHBOARD/TASK_1.pbix)
 
 
 ## Repository Structure
-- dashboard/: .pbix, PDF, screenshots
-- scripts/: Colab notebook
-- data/: RFM output
+
+- `DASHBOARD/`: Power BI dashboard, PDF export, screenshots
+- `SCRIPTS/`: Colab notebook
+- `DATA/`: RFM output
 
 ---
 Future Interns Data Science & Analytics Internship

@@ -41,14 +41,16 @@ BW-11110 ($30.6K lifetime spend, 55 days since last order), a clear
 re-engagement target.
 
 ## Dashboard Preview
-![Overview](dashboard/screenshots/page1.png)
-![Category](dashboard/screenshots/page2.png)
-![Geographic](dashboard/screenshots/page3.png)
-![Discount](dashboard/screenshots/page4.png)
-![RFM](dashboard/screenshots/page5.png)
 
-Full export: [dashboard PDF](dashboard/Future_Interns_Task_1.pdf).
-Interactive file: dashboard/Task_1.pbix (open in Power BI Desktop).
+![Overview](DASHBOARD/Screenshots/page1.png)
+![Category](DASHBOARD/Screenshots/page2.png)
+![Geographic](DASHBOARD/Screenshots/page3.png)
+![Discount](DASHBOARD/Screenshots/page4.png)
+![RFM](DASHBOARD/Screenshots/page5.png)
+
+Full export: [Dashboard PDF](DASHBOARD/Future_Interns_TASK_1.pdf)
+
+Interactive file: [Power BI Dashboard](DASHBOARD/TASK_1.pbix)
 
 
 ## Repository Structure
